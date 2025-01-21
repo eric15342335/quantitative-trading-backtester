@@ -23,3 +23,5 @@ pip install yfinance pandas matplotlib
 ```
 
 ## Sample UI
+
+![image](https://github.com/user-attachments/assets/16cbb544-e723-46ba-b3fe-9232097f3b8d)
